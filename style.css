@@ -1,0 +1,117 @@
+.container{
+    text-align: center;
+    margin: auto 350px;
+}
+.row-col{
+    display: flex;
+}
+.under{
+    border: 1px solid black;
+    width: 250px;
+    height: 250px;
+    background-color:blue ;
+}
+.circle{
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+    background-color:white ;
+    margin: 50px auto;
+}
+.main{
+    display: flex;
+}
+.main-01{
+    display: flex;
+}
+.circle-1{
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 35px;
+    height: 35px;
+    background-color: blue;
+    margin: 20px auto;
+}
+.circle-2{
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 35px;
+    height: 35px;
+    background-color:red;
+    margin: 20px auto;
+}
+.circle-3{
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 35px;
+    height: 35px;
+    background-color:green;
+    margin: 20px auto;
+}
+.circle-4{
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 35px;
+    height: 35px;
+    background-color:yellow;
+    margin: 20px auto;
+}
+.row1-col2{
+    border: 1px solid black;
+    width: 250px;
+    height: 250px;
+    background-color:red;
+}
+.row2-col3{
+    border: 1px solid black;
+    width: 120px;
+    height: 250px;
+    background-color:white ;
+}
+.row4-col3{
+    display: flex;
+}
+.under01{
+    border: 1px solid black;
+    width: 250px;
+    height: 110px;
+    background-color:white ;
+}
+.row01-col02{
+    border: 1px solid black;
+    width: 250px;
+    height: 110px;
+    background-color:white ;
+}
+.row02-col03{
+    border: 1px solid black;
+    width: 120px;
+    height: 110px;
+    background-image: url(Capture.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.under21{
+    border: 1px solid black;
+    width: 250px;
+    height: 250px;
+    background-color:green ;
+}
+.row22-col33{
+    border: 1px solid black;
+    width: 120px;
+    height: 250px;
+    background-color:white ;
+}
+.row11-col22{
+    border: 1px solid black;
+    width: 250px;
+    height: 250px;
+    background-color:#fffb06 ;
+}
+table, th, td{
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+}
